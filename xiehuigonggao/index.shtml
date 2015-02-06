@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="favicon.ico" rel="shortcut icon" />
+<link rel="canonical" href="http://dev.jj718.cn/" />
+<title>协会公告 - 四川省家具材料行业协会</title>
+<meta name="description" content="" />
+<meta name="keywords" content="协会公告" />
+<link href="http://dev.jj718.cn/statics/default/css/article_list.css" rel="stylesheet" type="text/css" />
+<link href="http://dev.jj718.cn/statics/default/css/layout.css" rel="stylesheet" type="text/css" />
+<script src="http://dev.jj718.cn/statics/js/jquery.js" type="text/javascript"></script>
+<script src="http://dev.jj718.cn/statics/default/js/w3cer.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="acc_center">
+	<div class="ass_logo"></div>
+  <div class="ass_rg">欢迎您的光临，<a href="#">请登录</a><a href="#">免费注册</a><div class="searchdv"> <form  name="formsearch" class="form" action="/index.php?g=Search" method="post"><input type="text" value="请输入你需要查询的内容" onfocus="this.value=''; this.style.color='#333333'" name="q" class="input_text" id="q" /><input type="submit" name="searchbtn" class="input_btn" value="搜索" /></form></div></div>
+</div>
+<div class="ass_menu">
+	<div class="acc_center">
+    	<ul>
+        	<li><a href="http://dev.jj718.cn/" class="xialaguang " title="四川省家具材料行业协会"><p>Home</p><b>网站首页</b></a></li>
+            <li><a href="#"><p>About</p><b>关于协会</b></a></li>
+            <li><a href="#"><p>News</p><b>资讯中心</b></a></li>
+            <li><a href="#"><p>Member</p><b>会员中心</b></a></li>
+            <li><a href="#"><p>Message</p><b>展会信息</b></a></li>
+            <li><a href="#"><p>Industry</p><b>产业集群</b></a></li>
+            <li><a href="#"><p>Magazine</p><b>电子刊物</b></a></li>
+            <li><a href="#"><p>Topics</p><b>专题</b></a></li>
+            <li><a href="#"><p>Video</p><b>视频专区</b></a></li>
+        </ul>
+    </div>
+</div>
+<div class="map"><span class="home_ico">当前位置：<a href="http://dev.jj718.cn/">四川省家具材料行业协会</a> &gt; <a href="/xiehuigonggao/" >协会公告</a></span>
+  <p style="float:right;padding-right:15px;"></p>
+</div>
+<div class="article_list_con w972">
+  <div class="article_list_left left">
+    <div class="article_lanmu">
+      <h2><span class="h2_text">协会公告</span></h2>
+      <dl>
+        <dt><a href='/index.php?a=shows&catid=4&id=37' title='幻灯测试2'><img src='http://dev.jj718.cn/statics/default/images/defaultpic.gif' alt='幻灯测试2'/></a></dt>
+        <dd class="arc_title"><a href="/index.php?a=shows&catid=4&id=37" title="幻灯测试2">幻灯测试2</a></dd>
+        <dd class="arc_desc">幻灯测试2...</dd>
+        <dd class="arc_info"><span>所属栏目：<a href='/xiehuigonggao/'>协会公告</a></span> <span>更新日期：10-14 11:38:34</span> <span>阅读次数：0</span></dd>
+        <div style="clear:both"></div>
+      </dl><dl>
+        <dt><a href='/index.php?a=shows&catid=4&id=36' title='会员招募22332132'><img src='http://dev.jj718.cn/statics/default/images/defaultpic.gif' alt='会员招募22332132'/></a></dt>
+        <dd class="arc_title"><a href="/index.php?a=shows&catid=4&id=36" title="会员招募22332132">会员招募22332132</a></dd>
+        <dd class="arc_desc">会员招募内容...</dd>
+        <dd class="arc_info"><span>所属栏目：<a href='/xiehuigonggao/'>协会公告</a></span> <span>更新日期：10-14 11:33:23</span> <span>阅读次数：0</span></dd>
+        <div style="clear:both"></div>
+      </dl>    </div>
+    <div class="fanye">
+      <ul>
+              </ul>
+      <div style="clear:both"></div>
+    </div>
+  </div>
+  <!--article_list_left end-->
+  <div class="article_list_right right">
+    <div class="ad250" style="width:250px;height:250px;margin-bottom:8px;border:1px solid #ccc;overflow:hidden"> 
+      <img src="http://placekitten.com/250/250" /> 
+    </div>
+    <div class="rand_pic">
+      <h2><span class="h2_txt">推荐图文</span></h2>
+      <ul>
+            </ul>
+      <div style="clear:both"></div>
+    </div>
+    <div class="ad250" style="width:250px;height:250px;margin-bottom:8px;border:1px solid #ccc;overflow:hidden"> 
+      <img src="http://placekitten.com/250/250" />
+    </div>
+    <div class="hot_tj">
+      <h2><span class="h2_txt">热点推荐</span></h2>
+      <ul>
+      <li><a href="/index.php?a=shows&catid=4&id=37" title="幻灯测试2">幻灯测试2</a></li><li><a href="/index.php?a=shows&catid=4&id=36" title="会员招募22332132">会员招募22332132</a></li>      </ul>
+      <div style="clear:both"></div>
+    </div>
+    <!--随机推荐 end--> 
+  </div>
+  <div style="clear:both"></div>
+</div>
+<div class="ass_footer">
+	<p>项目地址：四川 · 成都市 · 天府新区 · 视高新城  公司地址：成都市天府大道中段1388号花样年 · 美年广场B座4F</p>
+	<p>全国热线：400-070-9988  销售热线：028-36611111  招商热线：028-36669999</p>
+    <p>蜀ICP备11015290号-4 Copyright © 2013四川文氏实业有限公司 All rights reserved</p>
+</div>
+<script type="text/javascript">$(function (){$(window).toTop({showHeight : 100,});});</script>
+</body>
+</html>

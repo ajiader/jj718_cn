@@ -1,0 +1,31 @@
+<?php
+$_CACHE['settings'] = array (
+  'accessemail' => '',
+  'censoremail' => '',
+  'censorusername' => '',
+  'dateformat' => 'y-n-j',
+  'doublee' => '0',
+  'nextnotetime' => '0',
+  'timeoffset' => '28800',
+  'privatepmthreadlimit' => '25',
+  'chatpmthreadlimit' => '30',
+  'chatpmmemberlimit' => '35',
+  'pmfloodctrl' => '15',
+  'pmcenter' => '1',
+  'sendpmseccode' => '1',
+  'pmsendregdays' => '0',
+  'maildefault' => 'admin@scws.com.cn',
+  'mailsend' => '2',
+  'mailserver' => 'smtp.ym.163.com',
+  'mailport' => '25',
+  'mailauth' => '1',
+  'mailfrom' => 'нВ╡©╪р╬смЬ <admin@scws.com.cn>',
+  'mailauth_username' => 'admi@scws.com.cn',
+  'mailauth_password' => 'scws777888',
+  'maildelimiter' => '0',
+  'mailusername' => '1',
+  'mailsilent' => '1',
+  'version' => '1.6.0',
+);
+
+?>

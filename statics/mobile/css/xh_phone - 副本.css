@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0px; padding:0px;}
+body,div,p,span,dl,dt,dd,em,font,img,h1,h2,h3,h4,h5,h6,ol,ul,li{ margin:0px; padding:0px;}
+body{ font-family:"Microsoft Yahei";}
+a{ text-decoration:none; -webkit-tap-highlight-color:transparent}
+img{ border:0px;}
+.clear{ clear:both; height:0; font-size:0; overflow:hidden; line-height:0;}
+
+
+.xhmian{ margin:0 auto; max-width:640px; min-width:320px; width:100%;}
+.xhphonetop{ height:110px; background:#0075c2; padding:10px 30px 10px 20px;}
+.xhphonetop .xhlogo{ width:400px; height:106px; float:left;}
+.xhphonetop .xhfhsy{ width:50px; height:38px; float:right; margin-top:36px;}
+.ass_banner{ margin:0 auto; width:100%; height:363px; overflow:hidden; position:relative; text-align:center; margin-bottom:50px;}
+.ass_banner img{ position:absolute; top:0px; left:px; margin-left:-180px;}
+.ass_banner a.nivo-imageLink { position:absolute; top:0px; left:0px; width:100%; height:100%; border:0; padding:0; margin:0; z-index:6; display:none;}
+.nivo-slice{ display:block; position:absolute; z-index:5; height:100%;}
+.nivo-box{ display:block;position:absolute; z-index:5;}
+.nivo-caption{ position:absolute; left:0px; bottom:0px; background:#333333; color:#ffffff; opacity:0.8; width:100%; z-index:8; height:40px;}
+.nivo-caption p{ padding:0 10px; margin:0; line-height:40px; font-size:14px; text-align:left;}
+.nivo-caption a{ display:inline !important;}
+.nivo-html-caption{ display:none;}
+.nivo-directionNav a{ position:absolute; top:30%; z-index:9; cursor:pointer;}
+.nivo-prevNav{ left:0px;}
+.nivo-nextNav{ right:0px;}
+.nivo-controlNav a{ position:relative; z-index:9; cursor:pointer;}
+.nivo-controlNav a.active { font-weight:bold;}
+.ass_banner { position:relative; background:#fff url(loading.gif) no-repeat 50% 50%; -webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;  -moz-box-shadow: 0px 1px 5px 0px #4a4a4a; box-shadow: 0px 1px 5px 0px #4a4a4a;}
+.ass_banner img{ position:absolute; top:0px; left:0px; display:none;}
+.ass_banner a{ border:0; display:block;}
+.nivo-controlNav{position:absolute; right:2%; bottom:12px;}
+.nivo-controlNav a{ display:block; width:15px; height:15px; background:#ffffff; text-indent:-9999px; border:0;margin-right:10px; float:left; border-radius:15px;}
+.nivo-controlNav a.active{ background:#f8b520;}
+.nivo-directionNav a{ display:block; width:55px; height:130px; background-image:url(../images/scroll_jt.png); background-repeat:no-repeat; text-indent:-9999px; border:0;}
+a.nivo-nextNav{ background-position:-102px 0; right:15px;}
+a.nivo-prevNav{ left:15px; background-position:0 0;}
+
+.xhmenu,.xhtymg{ margin-bottom:30px;}
+.xhmenu a{ width:25%; float:left; text-align:center;}
+.xhmenu a span{ display:block; margin-bottom:20px;}
+.xhmenu a h2{ font-size:30px; color:#333333; font-weight:normal; }
+.xhline{ height:1px; line-height:0; font-size:0; border-bottom:1px #d9d9d9 solid; margin:30px;}
+.xhtitle{ text-align:center; font-size:46px; font-weight:normal;}
+.xhgyxh_nr{ padding:0 20px;}
+.xhgyxh_nr dl{ overflow:hidden;}
+.xhgyxh_nr dl dt{ float:left; width:30%;}
+.xhgyxh_nr dl dd{ float:right; width:68%;}
+.xhgyxh_nr dl dd h2{ font-size:34px; font-weight:normal; margin-bottom:15px;}
+.xhgyxh_nr dl dd h2 a,.xhgyxh_nr dl dd p a{ color:#1681c8;}
+.xhgyxh_nr dl dd p{ font-size:24px; line-height:36px; color:#666666;}
+.xhamore{ text-align:center; padding:30px 0;}
+.xhamore a{ display:inline-block; width:165px; height:48px; background:url(../images/moreabtn.gif) no-repeat; text-align:center; line-height:48px; color:#ffffff; font-size:26px;}

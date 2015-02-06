@@ -1,0 +1,33 @@
+# 将 RewriteEngine 模式打开
+RewriteEngine On
+RewriteBase /
+
+#禁止显示目录列表
+Options -Indexes
+
+# Rewrite 系统规则请勿修改
+RewriteCond %{QUERY_STRING} ^(.*)$
+#tag 伪静态
+RewriteRule ^(tag|Tag)-(.*?)-([0-9]+)\.html$ index.php/Content/Index/tags/tag/$2/page/$3
+RewriteRule ^(tag|Tag)-(.*?)\.html$ index.php/Content/Index/tags/tag/$2
+RewriteRule ^(tagid|Tagid)-([0-9]+)-([0-9]+)\.html$ index.php/Content/Index/tags/tagid/$2/page/$3
+RewriteRule ^(tagid|Tagid)-([0-9]+)\.html$ index.php/Content/Index/tags/tagid/$2
+#列表
+RewriteRule ^list-([0-9]+)\.html$ index.php/Content/Index/lists/catid/$1
+RewriteRule ^list-([0-9]+)-([0-9]+)\.html$ index.php/Content/Index/lists/catid/$1/page/$2
+#首页
+RewriteRule ^index\.shtml$ index.php/Content/Index/index
+RewriteRule ^index_([0-9]+)\.shtml$ index.php/Content/Index/index/page/$1
+#内容页
+RewriteRule ^xiehui-([0-9]+)-([0-9]+)\.html$ index.php/Content/Index/shows/catid/$1/id/$2
+RewriteRule ^xiehui-([0-9]+)-([0-9]+)_([0-9]+)\.html$ index.php/Content/Index/shows/catid/$1/id/$2/page/$3
+
+#查询
+RewriteRule ^search.html$ index.php/Search/index/?%{QUERY_STRING}
+
+ErrorDocument 404 /404.html 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+
+
